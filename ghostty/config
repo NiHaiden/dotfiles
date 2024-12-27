@@ -1,8 +1,11 @@
-theme = shades-of-purple
+theme = argonaut
 clipboard-read = allow
 clipboard-write = allow
-window-colorspace = srgb
-background-blur-radius = 20
+window-colorspace = display-p3
+background-blur-radius = 50
 background-opacity = 0.8
 command = /opt/homebrew/bin/fish
 shell-integration = fish
+macos-titlebar-style = tabs
+macos-option-as-alt = right
+cursor-style = bar
